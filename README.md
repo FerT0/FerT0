@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Juan Fernando</h1>
 <h3 align="center">A junior frontend developer from Colombia.</h3>
 
-- 🔭 I’m currently working on [Real Pets](https://github.com/FerT0/real-pets)
+- 🔭 I’m currently working on a [Trivia game made with React](https://github.com/FerT0/trivia-game)
 
 - 🌱 I’m currently learning **React**
 
