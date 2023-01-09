@@ -9,7 +9,7 @@ Web Developer
 * ✉️  You can contact me at [jtasconacevedo@gmail.com](mailto:jtasconacevedo@gmail.com)
 * 🚀  I'm currently working on [Improving my e-commerce website project](http://shoppey-store.netlify.app)
 * 🧠  I'm learning TypeScript
-* 🤝  I'm open to collaborating on front-end projects
+* 🤝  I'm open to collaborating on fullstack projects
 
 ### Skills
 
