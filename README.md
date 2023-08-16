@@ -7,7 +7,7 @@ Web Developer
 * 🌍  I'm based in Colombia
 * 🖥️  See my portfolio at [My portfolio](http://juantascon.netlify.app)
 * ✉️  You can contact me at [jtasconacevedo@gmail.com](mailto:jtasconacevedo@gmail.com)
-* 🚀  I'm currently working on [Improving my e-commerce website project](http://shoppey-store.netlify.app)
+* 🚀  I'm currently working on [Improving my e-commerce website project](https://github.com/FerT0/shoppey)
 * 🤝  I'm open to collaborating on full stack projects
 
 ## 🌐 Socials:
