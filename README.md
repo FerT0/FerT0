@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **full-stack projects**
 
-- 👨‍💻 All of my projects are available at [https://juantascon.site/](https://juantascon.site/)
+- 👨‍💻 Check out my portfolio at [https://juantascon.site/](https://juantascon.site/)
 
 - 📫 How to reach me **jtasconacevedo@gmail.com**
 
