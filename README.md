@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/96654573/211793736-9da401c1-70cf-4ed1-a9cf-4ae2aae5ae10.png)](https://juantascon.site/)
 <h1 align="center">Hey, I'm Juan Tascon</h1>
 <h3 align="center">Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 I’m currently working on [Shoppey](https://github.com/FerT0/backend)
 
