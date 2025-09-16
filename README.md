@@ -3,12 +3,6 @@
 <h3 align="center">Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on [Shoppey](https://github.com/FerT0/backend)
-
-- 👯 I’m looking to collaborate on **full-stack projects**
-
-- 👨‍💻 Check out my portfolio at [https://juantascon.site/](https://juantascon.site/)
-
 - 📫 How to reach me **jtasconacevedo@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
